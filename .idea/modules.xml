@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ProcessThread.iml" filepath="$PROJECT_DIR$/ProcessThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctask/asynctask.iml" filepath="$PROJECT_DIR$/asynctask/asynctask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backgroundprocess/backgroundprocess.iml" filepath="$PROJECT_DIR$/backgroundprocess/backgroundprocess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mainthread/mainthread.iml" filepath="$PROJECT_DIR$/mainthread/mainthread.iml" />
+    </modules>
+  </component>
+</project>
